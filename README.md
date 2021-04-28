@@ -7,6 +7,7 @@ https://elmas3.github.io/mao-seminar/
 う
 え
 お
+DAI HOC BACH KHOA DA NANG, VIETNAM
 # ディレクトリ構成
 ```
 seminar/
